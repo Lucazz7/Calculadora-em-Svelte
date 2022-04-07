@@ -5,7 +5,7 @@ import Calculadora from "./components/Calculadora.svelte";
 </script>
 
 <div class="container">
-	<h1>Svelte Calculado Teste Zeus</h1>
+	<h1>Svelte Calculadora Teste Zeus</h1>
 </div>
 
 
